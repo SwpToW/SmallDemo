@@ -14,5 +14,5 @@ PI：：使用蒙特卡罗d算法求解PI值
 
 RandomMaze: 使用随机队列生成迷宫
 
-Sweeper: 扫雷游戏（Knuth算法：随机算法，fill floor算法）
+Sweeper: 扫雷游戏（Knuth算法：随机算法，floodfill算法）
 
